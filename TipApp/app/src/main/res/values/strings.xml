@@ -1,0 +1,21 @@
+<resources>
+    <color name="purple">#3F51B5</color>
+    <string name="app_name">Assignment4</string>
+    <string name="checkAmountValue">0</string>
+    <string name="checkAmountString">Check Amount: </string>
+    <string name="checkPartyString">Party Size: </string>
+    <string name="tipCalculator">Tip Calculator</string>
+    <string name="tip">Tip:  15%</string>
+    <string name="Total">Total:  15%</string>
+    <string name="twenty">20%</string>
+    <string name="twentyFive">25%</string>
+    <string name="buttonName">Calculate</string>
+    <string name="e_g_10">e.g 10</string>
+    <string name="e_g_100">e.g 100</string>
+    <string name="_11_5">11.5</string>
+    <string name="_12_0">12.0</string>
+    <string name="_12_5">12.5</string>
+    <string name="_114_99">114.99</string>
+    <string name="_120_0">120.0</string>
+    <string name="_125_0">125.0</string>
+</resources>
